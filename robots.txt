@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://riyainfotechkota.github.io/snippets-8chf8r/sitemap.xml
